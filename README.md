@@ -2,14 +2,18 @@
 
 <b>Resources</b>
 
+
 Website Template:
 
 http://www.templatemo.com/tm-504-page-one
 
+
 Other Resources:
 
 http://www.datalab.uci.edu/papers/bache_diversity_kdd2013.pdf
+
 https://buhrmann.github.io/tfidf-analysis.html
+
 http://brandonrose.org/clustering
 
 
