@@ -116,10 +116,10 @@ function processData(data) {
             listing+='<div id="title">'+rowCells[6]+'</div>';
             listing+='<img class="listing_image" src='+rowCells[9]+'/>';
             listing+='<div class="summaryinfo">';
+            listing+='<form action="'+rowCells[10]+'"><input type="submit" value="Check Out the Listing" /></form>';
             listing+='<div class="infoline">'+rowCells[7] +'</div>';
             listing+='<div class="infoline">'+ rowCells[8] +'</div>';
             listing+='<div id="'+rowCells[0]+'" class="sum_review">'+'<p>'+rowCells[1]+'</p></div>';
-            listing+='<form action="'+rowCells[10]+'"><input type="submit" value="Check Out the Listing" /></form>';
             listing+= '</div>';
             listing+='<div class="listing_reviews">';
             listing+='<div id="'+rowCells[0]+'" class="listing_review">'+'<p>'+rowCells[2]+'</p></div>';
